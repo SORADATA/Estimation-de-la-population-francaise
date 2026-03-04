@@ -18,7 +18,8 @@ Le projet transforme un fichier Excel complexe en un DataFrame "Tidy" (format lo
 3.  **La Pyramide des Âges :** Génération automatique de graphiques de structure de population.
 4.  **La Cartographie (SIG) :** Jointure avec des fichiers GeoJSON pour visualiser la densité et la croissance par région.
 
-
+![alt text](output/pyramide_age.png)
+![alt text](output/ev.png)
 
 ## 🚀 Installation et Utilisation
 ### Prérequis
